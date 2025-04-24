@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: roboto;
+}
+
+
+ol{
+  margin-left:20px;
+}
+
+ol li{
+  font-family: roboto;
+  font-size: 1.1rem;
+  color:rgb(69, 69, 69);
+  margin-top: 2px;
+}
